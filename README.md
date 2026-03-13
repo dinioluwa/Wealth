@@ -1,1 +1,1 @@
-# Wealth
+# Basic panda
